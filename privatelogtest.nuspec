@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>
     <id>PrivateLogTest</id>
-    <version>1.0.7055.16118</version>
+    <version>1.0.7055.16119</version>
     <authors>UKE285882</authors>
     <owners>UKE285882</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
